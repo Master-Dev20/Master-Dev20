@@ -1,6 +1,5 @@
 **👋 Hi, I’m @M Jonah**  
-🚀 Machine Learning Engineer | AI Enthusiast | Data Science Innovator  
-
+🚀 Experienced Machine Learning Engineer & Data Scientist | AI Solutions Architect | Cloud & MLOps Expert 
 **👀 I’m interested in...**  
 - Deep Learning & Neural Networks  
 - Natural Language Processing (NLP)  
