@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Master-Dev20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**👋 Hi, I’m @M Jonah**  
+🚀 Machine Learning Engineer | AI Enthusiast | Data Science Innovator  
 
-<!---
-Master-Dev20/Master-Dev20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**👀 I’m interested in...**  
+- Deep Learning & Neural Networks  
+- Natural Language Processing (NLP)  
+- Computer Vision & Image Recognition  
+- AI Model Deployment & MLOps  
+- Scalable Machine Learning Systems  
+
+**🌱 I’m currently learning...**  
+- Reinforcement Learning & AI Agents  
+- Large Language Models (LLMs) & Transformers  
+- Cloud-Based ML Solutions (AWS, GCP, Azure)  
+- Model Optimization & Performance Tuning  
+
+**💞️ I’m looking to collaborate on...**  
+- AI-driven real-world applications  
+- Open-source machine learning projects  
+- Scalable and production-ready ML pipelines  
+
+**⚡ Fun fact:**  
+I train models faster than my coffee cools down! ☕🚀  
